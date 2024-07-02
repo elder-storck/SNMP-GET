@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "net-snmp": "^3.12.0",
+    "snmp-native": "^1.2.0"
+  },
+  "name": "snmp-js",
+  "version": "1.0.0",
+  "main": "snmp.js",
+  "scripts": {
+    "start": "node snmp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
